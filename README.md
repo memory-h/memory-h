@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=fff&height=57&section=header&text=Hyeon+Young+Jang&animation=twinkling&fontSize=40" />
 
  ##
- ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue)
+ <!-- ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue) -->
+ ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue&count_private=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  <br>
 
