@@ -3,7 +3,8 @@
  ##
  <!-- ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue) -->
  ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue&count_private=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
  <br>
 
 <!--
@@ -44,6 +45,7 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/></a>
   
  ### ⭐ Operating System ⭐
   <img src="https://img.shields.io/badge/Mac OS-000?style=flat-square&logo=macOS&logoColor=white"/></a>
