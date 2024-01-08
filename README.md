@@ -5,7 +5,6 @@
  ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue&count_private=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact)
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
- <br>
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyeon-zero&theme=vue)](https://git.io/streak-stats)
@@ -28,10 +27,8 @@
  -->
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjgazzx)](https://solved.ac/hjgazzx)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjgazzx&theme=warm)
-
  
  ### ⚒️ Tech Stack ⚒️
- 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -48,9 +45,9 @@
  <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/></a>
   
  ### ⭐ Operating System ⭐
-  <img src="https://img.shields.io/badge/Mac OS-000?style=flat-square&logo=macOS&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat-square&logo=Windows 11&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Mac OS-000?style=flat-square&logo=macOS&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat-square&logo=Windows 11&logoColor=white"/></a>
 
  ### 📁 Tools 📁
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
@@ -58,5 +55,4 @@
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
- <br>
  
