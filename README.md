@@ -1,58 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=fff&height=57&section=header&text=Hyeon+Young+Jang&animation=twinkling&fontSize=40" />
+<div align="center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+ <br><br><br>
+ 
+ <img src="https://capsule-render.vercel.app/api?type=transparent&color=fff&height=57&section=header&text=Hyeon+Young+Jang&animation=twinkling&fontSize=40" />
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
- ##
- <!-- ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue) -->
- ![Hyeon-zero's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-zero&show_icons=true&theme=vue&count_private=true)
+ <br><br>
+ 
+ [![Example](https://github-stats-alpha.vercel.app/api?username=Hyeon-zero)](https://github-stats-alpha.vercel.app/api?username=Hyeon-zero)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact)
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-zero&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyeon-zero&theme=vue)](https://git.io/streak-stats)
- <br>
- -->
- 
- <!-- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyeon-zero&theme=vue)
- <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeon-zero&theme=vue)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyeon-zero&theme=vue)
- <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyeon-zero&theme=vue)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyeon-zero&theme=vue&utcOffset=8)
- -->
- 
- ### 🎖️ Algorithm 🎖️
- <!--
- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hjgazzx)
- -->
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjgazzx)](https://solved.ac/hjgazzx)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjgazzx&theme=warm)
- 
- ### ⚒️ Tech Stack ⚒️
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
- <br>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/></a>
+ <br><br>
+
+ <h1> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;
+  Tech Stack
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;
+ </h1>
   
- ### ⭐ Operating System ⭐
- <img src="https://img.shields.io/badge/Mac OS-000?style=flat-square&logo=macOS&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat-square&logo=Windows 11&logoColor=white"/></a>
+ <br>
 
- ### 📁 Tools 📁
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
- 
+ <div>
+ 	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+ 	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ 	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
+ 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+ </div>
+
+</div>
