@@ -3,7 +3,7 @@
  <br><br><br>
  
  <img src="https://capsule-render.vercel.app/api?type=transparent&color=fff&height=57&section=header&text=Hyeon+Young+Jang&animation=twinkling&fontSize=40" />
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 
  <br><br>
  
